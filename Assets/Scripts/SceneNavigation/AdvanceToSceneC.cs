@@ -16,7 +16,7 @@ public class AdvanceToSceneC : MonoBehaviour
 
     void Update()
     {
-        if (inputManager.PlayerInteractedThisFrame() )
+        if (inputManager.PlayerInteractedThisFrame() || Input.GetKeyDown(KeyCode.F))
         {
             SceneManager.LoadScene(5);
         }
