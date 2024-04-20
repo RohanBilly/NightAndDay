@@ -5,7 +5,7 @@ This demo will take you through alternate versuons of a level all using differen
 
 ## How to Access
 To access the Unity project, open the repository folder from Unity Hub. It should take a while to download and launch as it uses a lot of assets.   
-To access the Executable file, run the X file in the Build folder.
+To access the Executable build of the level, unpack the WorkingBuild.rar file then run  NightAndDay.exe in the WorkingBuild folder.
 
 ## Recommendations
 It is recommended that you run the test level on a Computer with at oeast 8GB of RAM and a dedicated GPU.   
