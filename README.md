@@ -1,4 +1,4 @@
-# Night&Day
+# Night&Day - Dissertation Project
 
 This is the test level for my Comprehensive Creative Technologies Project.      
 This demo will take you through alternate versuons of a level all using different techniques to make the environment unsettling.
