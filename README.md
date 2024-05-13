@@ -1,4 +1,4 @@
-# Night&Day - Dissertation Project
+# Night&Day
 
 ## Description
 This is the test level for my Comprehensive Creative Technologies Project.      
