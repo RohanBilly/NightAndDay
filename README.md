@@ -4,6 +4,8 @@
 This is the test level for my Comprehensive Creative Technologies Project.      
 This demo will take you through alternate versuons of a level all using different techniques to make the environment unsettling.
 
+Video Walkthrough: https://youtu.be/sfTmDsIjyOg?si=tjra2qsba4fIq6uH
+
 ## How to Access
 To access the Unity project, open the repository folder from Unity Hub. It should take a while to download and launch as it uses a lot of assets.   
 To access the Executable build of the level, unpack the WorkingBuild.rar file then run  NightAndDay.exe in the WorkingBuild folder.
